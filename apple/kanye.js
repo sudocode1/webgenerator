@@ -1,0 +1,1 @@
+upload.onclick = async () => link.innerHTML = `<a href="/${await fetch('/file/' + btoa(kanyewest.value), { method: 'POST' }).then(d => d.text())}">Link</a>`;
