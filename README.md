@@ -2,7 +2,7 @@
 Store and retrieve text or HTML.
 
 ## Description
-This site allows you to write text or HTML, which then gets saved locally and can later be retrieved via an unique base64-encoded string.
+This site allows you to write text or HTML, which then gets saved locally and can later be retrieved via an unique base64-encoded string. (Built by sudocode1 & 1s3k3b)
 
 ## Structure
 
