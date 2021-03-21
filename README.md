@@ -12,7 +12,8 @@ This site allows you to write text or HTML, which then gets saved locally and ca
 | [apple](apple)       |     Frontend (File Creation)     |
 
 ## Self-hosting
-- Download & extract the files. 
+- Download & extract the files.
+- Install Node.js
 - Use `npm i` to install the packages required.
 - Run `node juice/index` from the root directory.
 - Go to `localhost:2000`
